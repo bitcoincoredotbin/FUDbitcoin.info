@@ -13,7 +13,7 @@
 
 It’s all just fractions and maths. Yes, bitcoin could technically be broken into smaller and smaller pieces for an infinite amount of “sub satoshis”. But the same thing could be said for most things.
 
-Technically, I can half 1 inch of thread into smaller and smaller measurements and never reach 0. I can have 0.0001 inches of thread or 0.0000000000000000012 inches. There are an infinite amount of measurements in between 0 and 1 inches, but that doesn’t make 1 inch of thread any longer.
+Technically, I can half 1 inch of thread into smaller and smaller measurements and never reach zero. I can have 0.0001 inches of thread or 0.0000000000000000012 inches. There are an infinite amount of measurements in between 0 and 1 inches, but that doesn’t make 1 inch of thread any longer.
 
 ## Supply Cap
 
