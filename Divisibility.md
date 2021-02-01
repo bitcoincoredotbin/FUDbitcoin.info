@@ -2,7 +2,7 @@
 
   #### ![Image](https://fudbitcoin.info/wp-content/uploads/2021/01/Pizza-Divisibility.jpg)
   
-  #### Bitcoin Is Infinitely Divisible. Therefore, It Is Not Scarce.
+  ### Bitcoin Is Infinitely Divisible. Therefore, It Is Not Scarce.
   
   #### There are 100,000,000 units in a bitcoin called satoshis. This makes btc anything but scarce.
   
