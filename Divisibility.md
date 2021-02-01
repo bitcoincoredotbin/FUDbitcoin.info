@@ -1,14 +1,9 @@
 [Divisibility FUD](https://fudbitcoin.info/divisibility/)
-[Divisibility FUD](https://fudbitcoin.info/divisibility/)
-The FUD
-  Image Link
-    https://fudbitcoin.info/wp-content/uploads/2021/01/Pizza-Divisibility.jpg
-    
-  Bitcoin Is Infinitely Divisible. Therefore, It Is Not Scarce.
-
-  There are 100,000,000 units in a bitcoin called satoshis. This makes btc anything but scarce.
-
-  Since bitcoin is digital, you can sub-divide it even further than one sat. If anyone who wants bitcoin can get some, then it can’t be scarce.
+  #The FUD
+  [IMAGE](https://fudbitcoin.info/wp-content/uploads/2021/01/Pizza-Divisibility.jpg)
+  ###Bitcoin Is Infinitely Divisible. Therefore, It Is Not Scarce.
+  ###There are 100,000,000 units in a bitcoin called satoshis. This makes btc anything but scarce.
+  ###Since bitcoin is digital, you can sub-divide it even further than one sat. If anyone who wants bitcoin can get some, then it can’t be scarce.
 
   
 Divisibility Does Not Equal Inflation
