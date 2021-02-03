@@ -53,7 +53,7 @@ If someone tries to submit an invalid transaction or break the rules, a bitcoin 
 
 This is rules without rulers. These are individual operators around the world choosing to run this specific rule set and node implementation. If you want to change the Bitcoin protocol, you would have to convince every single one of these users to change the software they run on their own machines. This is decentralization.  
 
-Because a node enforces all rules by default, running one makes identifying a counterfeit bitcoin transaction trivial. If you receive bitcoin using your own node, you can know it is authentic as nodes are always running the numbers. The same can not be said for gold as it is [quite the ordeal](https://bullionexchanges.com/learn/test-gold-real) to verify.
+Because a node enforces all rules by default, running one makes identifying a counterfeit bitcoin transaction trivial. If you receive bitcoin using your own node, you can know it is authentic as nodes are always running the numbers. The [same can not be said for gold](https://www.occrp.org/en/daily/12674-chinese-jewelry-company-secured-2-8-billion-in-loans-with-fake-gold) as it is [quite the ordeal](https://bullionexchanges.com/learn/test-gold-real) to verify.
 
 ## Bitcoin is Backed by Energy
 
