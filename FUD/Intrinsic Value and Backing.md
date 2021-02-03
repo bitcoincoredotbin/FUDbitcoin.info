@@ -2,7 +2,7 @@
 
   #### ![Image](https://fudbitcoin.info/wp-content/uploads/2021/01/btc-backed.jpg)
   
-  ### Bitcoin Has No Intrinsic Value and Isn't Backed By Anything
+  ### Bitcoin Has No Intrinsic Value. It Isn't Backed By Anything.
   
   #### Bitcoin has nothing backing it. The price is unsustainable because it has no intrinsic value, unlike gold. 
   
