@@ -1,6 +1,6 @@
 # China FUD
 
-### China controls Bitcoin
+### China Controls Bitcoin
 
 #### All of the mining is conecentrated in china. They can hack bitcoin with all that hash power.
 
