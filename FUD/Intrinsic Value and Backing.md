@@ -1,4 +1,4 @@
-# [Intrinsic Value and Backing FUD](https://fudbitcoin.info/intrinsic-value-backing/)
+# [Intrinsic Value and Backing FUD](https://fudbitcoin.info/value/)
 
   #### ![Image](https://fudbitcoin.info/wp-content/uploads/2021/01/btc-backed.jpg)
   
