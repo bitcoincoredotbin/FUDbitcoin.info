@@ -113,3 +113,5 @@ PoW gives us immutability, which gives us uncensorable money, which could potent
 
 ## Tweets
 [Preston Pysh](https://twitter.com/PrestonPysh/status/1340391749341081601?s=20)
+
+[Nice Carter](https://twitter.com/nic__carter/status/1363548461329711105?s=19)
