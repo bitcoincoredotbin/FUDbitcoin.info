@@ -55,7 +55,7 @@ Upstreamdata provides facilities to turn stranded natural gas sources such as me
 
 Bitcoin incentivizes efficient energy production and therefore sets the correct incentives for the energy system as a whole. Bitcoin has the features to be a qualified, stateless, world currency since it is censorship-resistant, permissionless, and trustless and since it provides instant settlement. The network is open and censorship-resistant through proof of work. Essentially, Bitcoin is a common good from the people for the people. The correct incentivization inherent in the Bitcoin protocol and the importance of Bitcoin as an alternative to the financial system justify the massive use of energy for mining and progresses the development of renewable resources.
 
-Follow [Dan on Twitter!](https://twitter.com/danielwingen)
+Follow [Daniel Wingen on Twitter!](https://twitter.com/danielwingen)
 
 ## Articles
 
